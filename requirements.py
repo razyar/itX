@@ -10,3 +10,4 @@ def install_requires(rep):
 
 install_requires('apache2')
 install_requires('php')
+install_requires('qrencode')
