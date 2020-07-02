@@ -23,7 +23,7 @@ Your both systems must be on same network (i will fix this issue later..)
 
 	step3: python install.py
 	
-	step4 (generate an domain for yourself :)): `domain_generator.py` username ipaddress 
+	step4 (generate an domain for yourself :)): domain_generator.py username ipaddress 
 	
 	step5: open http://yourusername@it.x on your browser
 	
